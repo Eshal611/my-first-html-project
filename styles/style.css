@@ -1,0 +1,80 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background-color: #fdfdfd;
+}
+#head {
+color: white;
+}
+
+/* Header */
+header {
+  background-color: #1a175c;
+  color: red;
+  text-align: center;
+  padding: 20px;
+}
+
+/* Main Content */
+main {
+  padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #1a175c;
+}
+
+/* Introduction */
+#introduction {
+  margin-bottom: 30px;
+}
+
+/* Attractions Section */
+#attractions article {
+  background-color: #f4f4f4;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-left: 5px solid #999;
+  border-radius: 5px;
+}
+
+#attractions h3 {
+  margin-top: 0;
+}
+
+/* Quotes */
+blockquote {
+  font-style: italic;
+  margin: 20px 0;
+  padding: 10px;
+  background-color: #eaeaea;
+  border-left: 4px solid #666;
+}
+
+/* Footer */
+footer {
+  background-color: #3c3c3c;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  margin-top: 40px;
+}
+#Subhead0 {
+  color: darkgreen;
+}
+#Subhead1 {
+  color: darkgreen;
+}
+#Subhead2 {
+  color: darkgreen;
+}
+#pic {
+  /* margin-left: 460px; */
+  position: relative;
+  left: 450px;
+  display: inline;
+}
